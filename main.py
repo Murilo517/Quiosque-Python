@@ -1,0 +1,7 @@
+from management.product_handler import get_product_by_id
+from management.product_handler import get_products_by_type
+from management.product_handler import add_product
+from management.tab_handler import calculate_tab
+
+if __name__ == "__main__":
+    ...
